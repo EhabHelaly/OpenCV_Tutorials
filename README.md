@@ -6,4 +6,5 @@ http://opencv.org/downloads.html
 http://kevinhughes.ca/tutorials/opencv-install-on-windows-with-codeblocks-and-mingw/
 # OpenCV version 3.1.0 Docs
 http://docs.opencv.org/master/#gsc.tab=0
-
+# Check other projects and tutorials here
+https://github.com/EhabHelaly
